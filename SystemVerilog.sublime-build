@@ -1,0 +1,7 @@
+{
+    "windows": {
+        "cmd": ["$packages/sv_check/win_check.bat", "$file"]
+    },
+    "selector": "source.systemverilog",
+    "encoding": "utf-8"
+}
